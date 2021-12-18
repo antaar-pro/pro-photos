@@ -1,0 +1,53 @@
+body{
+  text-align:center;
+    background-color: blue;
+}
+
+#firstp{
+  word-spacing:10px;
+  font-varient:small-caps;
+  text-align:center;
+  font-size:80px;
+    background-color: aqua;
+}
+
+#reason1{
+ font-size:50px; 
+}
+
+#image1{
+  border-style:solid;
+  border-color:#689F38;
+  border :1px;
+  boder-radius: 80px;
+  padding:5px;
+  width:450px;
+}
+
+#image2{
+  border-style:solid;
+  border-color:#689F38;
+  border :1px;
+  boder-radius: 80px;
+  padding:5px;
+  width:450px;
+}
+
+#image3{
+  border-style:solid;
+  border-color:#689F38;
+  border :1px;
+  boder-radius: 80px;
+  padding:5px;
+  width:450px;
+}
+
+#image4{
+  border-style:solid;
+  border-color:#689F38;
+  border :1px;
+  boder-radius: 80px;
+  padding:5px;
+  width:450px;
+}
+
